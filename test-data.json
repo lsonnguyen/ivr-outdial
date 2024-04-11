@@ -1,0 +1,23 @@
+{
+    "integration": {
+        "id": "9ad3eb5c-d566-42f7-980e-e4a2a60c415c",
+        "company_id": "9ad385f4-31f1-4d72-953c-b04396d24ee4",
+        "type": "Integration",
+        "name": "Cisco WCC",
+        "template_name": "CiscoWCCIntegration",
+        "integration_attributes": {
+            "endpoint": "https://ivrcon.ccone.net/xda/xdaIntf",
+            "test_mode": false,
+            "new_call_endpoint": "https://ivrcon.ccone.net/xda/eraIntf"
+        },
+        "updated_at": "2023-12-18T16:17:46.000000Z",
+        "created_at": "2023-12-12T02:56:15.000000Z"
+    },
+    "function_name": "receiveCall",
+    "data": {
+        "id": "2d881f27-a7d2-43ff-8d31-ebf28c3f951e",
+        "ani": "+14085551001",
+        "dnis": "+18005551001"
+    },
+    "result": null
+}

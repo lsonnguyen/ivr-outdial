@@ -1,3 +1,40 @@
-{
-    
-}
+[
+  {
+    "orgId": "5dc17363-fcbc-4945-82fe-023d7a2ebe70",
+    "campaignId": "Capgemini24",
+    "dialNumber": "9785491014",
+    "dialAt": "1712862000",
+    "guardTime": "1712869200",
+    "customerANI": "+18442599134",
+    "customerData": [
+      {
+        "name": "Test_Central_Ops",
+        "value": "50"
+      },
+      {
+        "name": "custAcctNo",
+        "value": "49198379-14626682"
+      }
+    ],
+    "enforceDialAtTime": true
+  },
+  {
+    "orgId": "5dc17363-fcbc-4945-82fe-023d7a2ebe70",
+    "campaignId": "Capgemini24",
+    "dialNumber": "5615237703",
+    "dialAt": "1712862600",
+    "guardTime": "1712862000",
+    "customerANI": "+18442599134",
+    "customerData": [
+      {
+        "name": "Test_Central_Ops",
+        "value": "-142.03"
+      },
+      {
+        "name": "custAcctNo",
+        "value": "21130372-327261"
+      }
+    ],
+    "enforceDialAtTime": true
+  }
+]

@@ -3,8 +3,8 @@
     "orgId": "5dc17363-fcbc-4945-82fe-023d7a2ebe70",
     "campaignId": "Capgemini24",
     "dialNumber": "9785491014",
-    "dialAt": "1712862000",
-    "guardTime": "1712869200",
+    "dialAt": "2024-04-11T21:00:00Z",
+    "guardTime": "2024-04-11T22:30:00Z",
     "customerANI": "+18442599134",
     "customerData": [
       {
@@ -22,8 +22,8 @@
     "orgId": "5dc17363-fcbc-4945-82fe-023d7a2ebe70",
     "campaignId": "Capgemini24",
     "dialNumber": "5615237703",
-    "dialAt": "1712862600",
-    "guardTime": "1712862000",
+    "dialAt": "2024-04-11T21:00:00Z",
+    "guardTime": "2024-04-11T22:30:00Z",
     "customerANI": "+18442599134",
     "customerData": [
       {
